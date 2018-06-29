@@ -5,5 +5,5 @@ module.exports = function() {
 
   }
 
-  return Lansrod_Group;
+  return Lansrod_Group_2018;
 }();
